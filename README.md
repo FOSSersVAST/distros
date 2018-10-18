@@ -10,7 +10,7 @@ Information, reviews about various Linux Operating Systems (Linux distros).
   ```bash
   cp distro-name.md linuxmint.md
   ```
-* Edit the newly copied file and add the details.
+* Edit the newly copied file and add the details. [Sample File, Ubuntu](https://github.com/FOSSersVAST/distros/blob/master/ubuntu.md)
 * After making necessary changes, add the file to git, commit and push. Example :
   ```
   git add linuxmint.md
@@ -18,3 +18,4 @@ Information, reviews about various Linux Operating Systems (Linux distros).
   git push
   ```
 * Make a pull request to this repository
+* That's it !
