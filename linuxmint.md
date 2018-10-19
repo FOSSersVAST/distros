@@ -28,6 +28,7 @@ A strong option for those new to Linux
 [Download Page](https://linuxmint.com/download.php)
 
 Linux Mint releases are timed to be approximately one month after Ubuntu releases . Consequently, every Linux Mint release comes with an updated version of both GNOME and X and features some of the improvements brought in the latest Ubuntu release.
+
 The latest release is Linux Mint 19 "Tara", released on 29 June 2018. As an LTS release, it will be supported until 2023, and it is planned that future versions until 2020 will use the same package base, making upgrades easy.
 
 Linux Mint comes in 3 different flavours, each featuring a different desktop environment.
