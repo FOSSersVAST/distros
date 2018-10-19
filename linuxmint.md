@@ -19,7 +19,7 @@ A strong option for those new to Linux
 ## Basic Info
 
 * Based on : `debian`
-* Package Manager : `APT`
+* Package Manager : `apt`
 * Founded : `2006`
 * Website : www.linuxmint.com
 
