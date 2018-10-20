@@ -15,7 +15,33 @@ Despite the many varieties of distros are available in the Internet, Debian stil
 
 ## Download
 
-#Say about release cycle and version and support time and naimg fact tioy stiry
+Debian Long Term Support (LTS) is a project to extend the lifetime of all Debian stable releases to (at least) 5 years. Debian LTS will not be handled by the Debian security team, but by a separate group of volunteers and companies interested in making it a success.
+
+Debian releases do not follow a fixed schedule. Recent releases have been made roughly biennially by the Debian Project.
+
+Debian distribution codenames are based on the [names of characters](https://en.wikipedia.org/wiki/List_of_Toy_Story_characters) from the [Toy Story](https://en.wikipedia.org/wiki/Toy_Story_(franchise)) films. Debian's *unstable* trunk is named after [Sid](https://en.wikipedia.org/wiki/List_of_Toy_Story_characters#Sid_Phillips), a character who regularly destroyed the toys.
+
+| Version | Code Name                                        |                         Release Date                         |                         Support Time                         |
+| ------- | ------------------------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 12      | Bookworm                                         |                              -                               |                              -                               |
+| 11      | Bullseye                                         |                              -                               |                              -                               |
+| 10      | Buster                                           |                              -                               |                              -                               |
+| 9       | [Stretch](https://wiki.debian.org/DebianStretch) | [June 17th 2017](https://www.debian.org/News/2017/20170617)  |           approx. 2020 (full) / approx. 2022 (LTS)           |
+| 8       | [Jessie](https://wiki.debian.org/DebianJessie)   | [April 25th 2015](https://www.debian.org/News/2015/20150426) | [~June 6th 2018](https://www.debian.org/security/faq#lifespan) (full) / [~June 6th 2020](https://wiki.debian.org/LTS) (LTS) |
+| 7       | [Wheezy](https://wiki.debian.org/DebianWheezy)   |  [May 4th 2013](https://www.debian.org/News/2013/20130504)   | [April 26th 2016 (full) / May 2018 (LTS)](https://www.debian.org/News/2018/20180601) |
+| 6.0     | [Squeeze](https://wiki.debian.org/DebianSqueeze) | [February 6th 2011](https://www.debian.org/News/2011/20110205a) | [May 31st 2014](https://www.debian.org/security/2014/dsa-2907) (full) / [February 29th 2016](https://www.debian.org/News/2014/20140424.html) (LTS) |
+| 5.0     | [Lenny](https://wiki.debian.org/DebianLenny)     | [February 14th 2009](https://www.debian.org/News/2009/20090214) | [February 6th 2012](https://lists.debian.org/debian-security-announce/2011/msg00238.html) |
+| 4.0     | [Etch](https://wiki.debian.org/DebianEtch)       |  [Apr 8th 2007](https://www.debian.org/News/2007/20070408)   | [February 15th 2010](https://www.debian.org/News/2010/20100121) |
+| 3.1     | [Sarge](https://wiki.debian.org/DebianSarge)     |  [June 6th 2005](https://www.debian.org/News/2005/20050606)  | [March 31st 2008](https://www.debian.org/News/2008/20080229) |
+| 3.0     | [Woody](https://wiki.debian.org/DebianWoody)     | [July 19th 2002](https://www.debian.org/News/2002/20020719)  | [June 30th 2006](https://www.debian.org/News/2006/20060601)  |
+| 2.2     | [Potato](https://wiki.debian.org/DebianPotato)   | [August 15th 2000](https://www.debian.org/News/2000/20000815) |                        June 30th 2003                        |
+| 2.1     | [Slink](https://wiki.debian.org/DebianSlink)     | [March 9th 1999](https://www.debian.org/News/1999/19990309)  | [September 30th 2000 (full) / October 30th 2000 (limited)](https://lists.debian.org/debian-security-announce/2000/msg00043.html) |
+| 2.0     | [Hamm](https://wiki.debian.org/DebianHamm)       | [July 24th 1998](https://www.debian.org/News/1998/19980724)  |                              -                               |
+| 1.3     | [Bo](https://wiki.debian.org/DebianBo)           |  [July 2nd 1997](https://www.debian.org/News/1997/19970602)  |                              -                               |
+| 1.2     | [Rex](https://wiki.debian.org/DebianRex)         | [December 12th 1996](https://lists.debian.org/debian-announce/1996/msg00026.html) |                              -                               |
+| 1.1     | [Buzz](https://wiki.debian.org/DebianBuzz)       | [June 17th 1996](https://lists.debian.org/debian-announce/1996/msg00021.html) |                              -                               |
+
+More on [History of Debian releases](https://www.debian.org/doc/manuals/project-history/ch-releases.en.html).
 
 #### 64 bit PC or arm64
 
@@ -49,6 +75,8 @@ Small installation image can be downloaded quickly and be recorded onto a remova
 
 - [64 bit PC or arm64](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.5.0-amd64-netinst.iso)
 - [32 bit PC or i386](https://cdimage.debian.org/debian-cd/current/i386/iso-cd/debian-9.5.0-i386-netinst.iso)
+
+Debian also provides [unstable](https://wiki.debian.org/DebianUnstable) and [testing](https://wiki.debian.org/DebianTesting) versions..
 
 **Installation guide** : https://www.debian.org/releases/stable/installmanual
 
