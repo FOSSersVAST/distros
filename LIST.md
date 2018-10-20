@@ -4,3 +4,5 @@
 
 * [Linux Mint](https://github.com/FOSSersVAST/distros/blob/master/linux-mint.md)
 
+* [Deepin OS](https://github.com/FOSSersVAST/distros/blob/master/deepin.md)
+
