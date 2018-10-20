@@ -10,9 +10,7 @@ As of February 2016, Fedora has an estimated 1.2 million users, including Linus 
 ## Basic Info
 
 * Based on : `Linux Kernel`
-* Package Manager : `	DNF (command-line front-end)
-                        PackageKit (graphical front-end)
-                        RPM (package format)`
+* Package Manager : `DNF`
 * Founded : `2003`
 * Website : http://getfedora.org
 
@@ -34,9 +32,9 @@ Fedora Atomic
 
 ## Reviews
 
-#### Fedora is always free for anyone to use, modify, and distribute. It is built and used by people across the globe who work together as a community
+#### Fedora is always free for anyone to use, modify, and distribute.
 
 ```
-Fedora is the 2nd most popular Linux distribution ever. It can be used by anyone just like Ubuntu.
+Fedora is the 2nd most popular Linux distribution ever. It is built and used across the globe who work together as a community. Also can be used by anyone just like Ubuntu.
 ```
 - Aishwarya Rajan, 2018-10-20
