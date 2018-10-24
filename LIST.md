@@ -6,7 +6,7 @@
 
 * [Deepin OS](https://github.com/FOSSersVAST/distros/blob/master/deepin.md)
 
-* [Kali](https://github.com/FOSSersVAST/distros/blob/master/kali.md)
+* [Kali](https://github.com/FOSSersVAST/distros/blob/master/kali-linux.md)
 
 * [Fedora](https://github.com/FOSSersVAST/distros/blob/master/fedora.md)
 

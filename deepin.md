@@ -38,7 +38,7 @@ The Deepin Offical Site offers two Download options
 
 ## Reviews
 
-#### Review title
+#### Elegant - Windows Alternative
 
 ```
 A simply Elegant and minimalistic OS straight out of China. Its a perfect Switch over for users to 
@@ -46,10 +46,3 @@ A simply Elegant and minimalistic OS straight out of China. Its a perfect Switch
 Although some rumours suggest, chances of data leak is possible.
 ```
 - Elvis Tony, 2018-10-20
-
-#### Review 2 title
-
-```
-Review 2's message here
-```
-- Reviewer 2's Name, Date

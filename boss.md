@@ -17,7 +17,7 @@ The new Ibus input method is introduced in BOSS 6 release. This include a new on
 
 ## Download
 
-Anoop The BOSS GNU/Linux Version 6 - GNOME Desktop Environment 3.14 
+Anoop - The BOSS GNU/Linux Version 6 - GNOME Desktop Environment 3.14 
 
 >Regular ISO [Download Page](ftp://mirror.bosslinux.in/ISO%20Images/Desktop/anoop/uefi/boss-6.2-i386-DVD-UEFI.iso)
 >64-bit ISO [Download Page](ftp://mirror.bosslinux.in/ISO%20Images/Desktop/anoop/uefi/boss-6.2-i386-DVD-UEFI.iso)
@@ -28,16 +28,9 @@ The latest Release of BOSS GNU/Linux is version 6 (Anoop). It is coupled with GN
 
 ## Reviews
 
-#### Review title
+#### Bharat OS (Enhanced UI) and Language Support
 
 ```
 An OS delivered directly from our Country. BOSS OS (Bharat Operating System Solutions) aims to enhance the UI and adopt a wide range of Indian Language support.
 ```
 - Elvis Tony, 2018-10-22
-
-#### Review 2 title
-
-```
-Review 2's message here
-```
-- Reviewer 2's Name, Date
