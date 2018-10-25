@@ -14,3 +14,4 @@
 
 * [Bodhi Linux](https://github.com/FOSSersVAST/distros/blob/master/bodhi-linux.md)
 
+* [Mageia](https://github.com/FOSSersVAST/distros/blob/master/mageia.md)
