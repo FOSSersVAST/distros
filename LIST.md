@@ -12,3 +12,5 @@
 
 * [BOSS LINUX](https://github.com/FOSSersVAST/distros/blob/master/boss.md)
 
+* [Bodhi Linux](https://github.com/FOSSersVAST/distros/blob/master/bodhi-linux.md)
+
