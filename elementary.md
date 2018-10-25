@@ -1,6 +1,6 @@
 # Elementary OS
 
-![300px-Elementary_logo](C:\Users\Abhijith Sheheer\Documents\distros\300px-Elementary_logo.png)
+![300px-Elementary_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Elementary_logo.svg/200px-Elementary_logo.svg.png)
 
 Elementary OS Is a fast, open, and privacy-respecting replacement for Windows and macOS. They focus primarily on non-technical users, and has pay-what-you-want model. The OS is developed by elementary LLC.
 
@@ -26,13 +26,13 @@ Elementary OS does not have a strict release cadence, instead following a "relea
 | 0.4.1   | Loki     | 17 May 2017          | Ubuntu 16.04.2 LTS |
 | **5.0** | Juno     | 16 October 2018[56\] | Ubuntu 18.04 LTS   |
 
-[**Download link for latest version (i.e Juno/0.5)**](magnet:?xt=urn:btih:f5b31b1bd67bf65fe97be298ec7c473cb2e3e201&dn=elementaryos-5.0-stable.20181016.iso&tr=https%3A%2F%2Fashrise.com%3A443%2Fphoenix%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&ws=http://sgp1.dl.elementary.io/download/MTU0MDA0MTYxNg==/elementaryos-5.0-stable.20181016.iso) 
+[**Download link for latest version (i.e Juno/0.5)**](magnet:?xt=urn:btih:f5b31b1bd67bf65fe97be298ec7c473cb2e3e201&dn=elementaryos-5.0-stable.20181016.iso&tr=https%3A%2F%2Fashrise.com%3A443%2Fphoenix%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&ws=http://sgp1.dl.elementary.io/download/MTU0MDA0MTYxNg==/elementaryos-5.0-stable.20181016.iso)
 
 **Download link for older version can be found in the link given below.**
 
 ***Please don't use it. Only for advanced users and developers.***
 
-[Older versions link](http://osarchive.sda1.eu/elementary-os) 
+[Older versions link](http://osarchive.sda1.eu/elementary-os)
 
 ## Reviews
 
