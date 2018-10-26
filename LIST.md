@@ -26,3 +26,6 @@
 
 * [Ubuntu Kylin](https://github.com/FOSSersVAST/distros/blob/master/ubuntu-kylin.md)
 
+* [Phoenix OS](https://github.com/FOSSersVAST/distros/blob/master/phoenix.md)
+
+
