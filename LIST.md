@@ -17,3 +17,6 @@
 * [Mageia](https://github.com/FOSSersVAST/distros/blob/master/mageia.md)
 
 * [Manjaro Linux](https://github.com/FOSSersVAST/distros/blob/master/manjaro-linux.md)
+
+* [Elementary](https://github.com/FOSSersVAST/distros/blob/master/elementary.md)
+
