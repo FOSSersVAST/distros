@@ -26,3 +26,12 @@ Kali Linux is specifically tailored to the needs of penetration testing professi
 However, if you’re a professional penetration tester or are studying penetration testing with a goal of becoming a certified professional, there’s no better toolkit — at any price — than Kali Linux.
 ```
 - Aishwarya Rajan, 2018-10-20
+
+
+####  Network Breach and Security Testing
+```
+Kali Linux was made to suit the needs of Network penetration White Hat (hackers)
+by pre-installing famous tools used for the purpose such as AIRCRACK-NG, jSQL-Injection and so on. This makes the user more free to chose an appropriate tool for testing rather than looking for workarounds (which can get tedious).
+Although Kali Linux isn't one on the top when Design comes into the scene, but is a outweighed by is powerful software punch.
+```
+- Elvis Tony, 2018-10-26

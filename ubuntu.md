@@ -37,3 +37,12 @@ The latest LTS release **Ubuntu 18.04** is supported until 2023. You can [downlo
 Ubuntu is the most popular Linux distribution ever. Because it is simple to install and use. I like Ubuntu, but I dislike the new GNOME 3 desktop environment. It's too heavy !
 ```
 - Subin Siby, 2018-10-18
+
+#### The most popular distro
+
+```
+Yeah, I've first used Linux via the Famous "Ubuntu". Has a nice Purple/Magenta ambience which makes it stand out from other OSs(Windows).
+The TaskBar on the side, did take some time to get used to.
+Ubuntu seeming to be a parent for many distros has its quirks as most Softwares developed for Linux works perfectly fine on Ubuntu, thanks to the Active Open Source community.
+```
+- Elvis Tony, 2018-10-26

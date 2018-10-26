@@ -24,3 +24,5 @@
 
 * [NixOS](https://github.com/FOSSersVAST/distros/blob/master/nixos-linux.md)
 
+* [Ubuntu Kylin](https://github.com/FOSSersVAST/distros/blob/master/ubuntu-kylin.md)
+
