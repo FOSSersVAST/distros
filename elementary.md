@@ -43,3 +43,12 @@ Elemenatary OS is a one of a kind. Most beautiful OS I have ever seen. Best suit
 ```
 
 - Abhijith Sheheer, 2018/10/20
+
+#### Minimalistic Wonder
+
+```
+Yet another Showpiece to the Distro collection. This OS was created to showcase the Pantheon Desktop and kinda looks like a Mac ;).
+
+```
+
+- Elvis Tony , 2018/10/26

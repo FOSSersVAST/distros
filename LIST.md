@@ -20,3 +20,7 @@
 
 * [Elementary](https://github.com/FOSSersVAST/distros/blob/master/elementary.md)
 
+* [Kubuntu](https://github.com/FOSSersVAST/distros/blob/master/kubuntu.md)
+
+* [NixOS](https://github.com/FOSSersVAST/distros/blob/master/nixos-linux.md)
+
