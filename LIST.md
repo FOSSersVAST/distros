@@ -20,3 +20,5 @@
 
 * [Elementary](https://github.com/FOSSersVAST/distros/blob/master/elementary.md)
 
+* [Kubuntu](https://github.com/FOSSersVAST/distros/blob/master/Kubuntu.md)
+

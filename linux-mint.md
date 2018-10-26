@@ -53,4 +53,10 @@ Visit (https://www.linuxmint.com/download_all.php).
 ```
 - Akshay T G, 2018-10-19
 
+####  Another Perfect alternative to Ubuntu (Pre-Windows Users).
+
+```
+ A Totally simple yet powerful alternative to Ubuntu.A neat Desktop UI that resembles the Famous Windows OS.
+```
+- Elvis Tony, 2018-10-26
 
