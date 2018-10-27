@@ -7,9 +7,17 @@ Kali Linux is developed using a secure environment with only a small number of t
 ## Basic Info
 
 * Based on : `debian`
+* OS family: `Unix-like`
 * Package Manager : `dpkg`
+* kernel type: `Monolithic kernel(linux)`
 * Founded : `2013`
 * Website : https://www.kali.org/
+
+## Requirements
+
+Kali Linux requires a minimum of 10GB hard disk space for installation.
+A minimum of 512MB RAM for i386 and AMD64 architectures.
+A bootable CD-DVD drive or a USB stick.
 
 ## Download
 
@@ -35,3 +43,9 @@ by pre-installing famous tools used for the purpose such as AIRCRACK-NG, jSQL-In
 Although Kali Linux isn't one on the top when Design comes into the scene, but is a outweighed by is powerful software punch.
 ```
 - Elvis Tony, 2018-10-26
+#### Popular for hacking and network security
+```
+Kali Linux is an advanced penetration testing Linux distribution used for penetration testing, ethical hacking and network security assessments.
+It has gained a lot of popularity recently. And there is a reason for that, Hacking is back as the cool-thing-to-do in popular culture.Kali is one of the few hacking focused Linux distributions.And with that, people with hardly any knowledge of Linux or anything related to computer security are now trying to use Kali as their main Linux distribution.
+```
+-Reon James,2018-10-27
