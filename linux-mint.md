@@ -58,5 +58,12 @@ Visit (https://www.linuxmint.com/download_all.php).
 ```
  A Totally simple yet powerful alternative to Ubuntu.A neat Desktop UI that resembles the Famous Windows OS.
 ```
-- Elvis Tony, 2018-10-26
+siml
+
+####  The most popular and easy Linux distributions of all time.
+
+```
+The Linux Mint desktop is the best desktop around.It looks elegant.
+```
+- Radhika R. Sharma, 2018-10-27
 
