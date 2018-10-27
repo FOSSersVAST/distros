@@ -46,3 +46,10 @@ The TaskBar on the side, did take some time to get used to.
 Ubuntu seeming to be a parent for many distros has its quirks as most Softwares developed for Linux works perfectly fine on Ubuntu, thanks to the Active Open Source community.
 ```
 - Elvis Tony, 2018-10-26
+
+#### The most popular distro
+
+```
+For me Ubuntu is simple to use. It's a user friendly operating system.
+```
+- Radhika R. Sharma, 2018-10-27
