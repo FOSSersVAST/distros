@@ -58,7 +58,7 @@ Visit (https://www.linuxmint.com/download_all.php).
 ```
  A Totally simple yet powerful alternative to Ubuntu.A neat Desktop UI that resembles the Famous Windows OS.
 ```
-siml
+- Elvin Tony, 2018-10-26
 
 ####  The most popular and easy Linux distributions of all time.
 
