@@ -6,6 +6,10 @@ Debian is the master of all Linux distros. Debian project was founded to provide
 
 Despite the many varieties of distros are available in the Internet, Debian still continues to lead the others. Debian is a great start for both beginners and advanced users as well.
 
+## Virtual communities
+
+Debian provides packages made for virtual communities. The Facebook and Twitter application interfaces are available to programmers,the Pidgin messaging client used a custom plugin for Facebook until the networking site added support for XMPP.Debian 5.0 Lenny was the last release supporting Tencent QQ.Communication with Skype is possible using software in the contrib area.
+ 
 ## Basic Info
 
 * Based on : `Linux kernel`
@@ -42,6 +46,16 @@ Debian distribution codenames are based on the [names of characters](https://en.
 | 1.1     | [Buzz](https://wiki.debian.org/DebianBuzz)       | [June 17th 1996](https://lists.debian.org/debian-announce/1996/msg00021.html) |                              -                               |
 
 More on [History of Debian releases](https://www.debian.org/doc/manuals/project-history/ch-releases.en.html).
+#### Hardware requirements
+Hardware requirements are at least those of the kernel and the GNU toolsets. Debian's recommended system requirements depend on the level of installation, which corresponds to increased numbers of installed components:
+
+Type        |	Minimum RAM size |	Recommended RAM size |	Minimum processor clock speed (IA-32) |	Hard drive capacity
+Non desktop |	128 MB           |	512 MB 	             |	                                      |    2 GB
+Desktop     |	256 MB           |	1 GB                 |	1 GHz                                 |	   10 GB 
+
+The real minimum memory requirements depend on the architecture and may be much less than the numbers listed in this table. It is possible to install Debian with 60 MB of RAM for x86-64, the installer will run in low memory mode and it is recommended to create a swap partition.The installer for z/Architecture requires about 20 MB of RAM, but relies on network hardware.Similarly, disk space requirements, which depend on the packages to be installed, can be reduced by manually selecting the packages needed.As of August 2014, no Pure Blend exists that would lower the hardware requirements easily.
+
+It is possible to run graphical user interfaces on older or low-end systems, but the installation of window managers instead of desktop environments is recommended, as desktop environments are more resource-intensive. Requirements for individual software vary widely and must be considered, with those of the base operating environment. 
 
 #### 64 bit PC or arm64
 
