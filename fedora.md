@@ -5,7 +5,9 @@ Fedora is a Linux distribution developed by the community-supported Fedora Proje
 Since the release of Fedora 21, three different editions are currently available: Workstation, focused on the personal computer, Server for servers, and Atomic focused on cloud computing.
 
 As of February 2016, Fedora has an estimated 1.2 million users, including Linus Torvalds, creator of the Linux kernel.
+## Logo Link
 
+https://upload.wikimedia.org/wikipedia/commons/2/2c/RH-Fedora_logo-nonfree.png
 
 ## Basic Info
 
@@ -13,6 +15,12 @@ As of February 2016, Fedora has an estimated 1.2 million users, including Linus 
 * Package Manager : `DNF`
 * Founded : `2003`
 * Website : http://getfedora.org
+## Software
+
+Fedora comes installed with a wide range of software such as LibreOffice and Firefox. Additional software is available from the software repositories and can be installed using the DNF package manager or GNOME Software.
+Additionally, extra repositories can be added to the system, so that software not available in Fedora can be installed easily. Software that is not available via official Fedora repositories, either because it doesn't meet Fedora's definition of free software or because its distribution may violate US law, can be installed using third-party repositories. Popular third-party repositories include RPM Fusion free and non-free repositories. Fedora also provides users with an easy-to-use build system for creating their own repositories called Copr.
+
+Since the release of Fedora 25, the operating system defaults to the Wayland display server protocol, which replaced the X Window System. 
 
 ## Download
 
