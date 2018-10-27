@@ -102,3 +102,10 @@ Debian also provides [unstable](https://wiki.debian.org/DebianUnstable) and [tes
 Debian had became my favorite distro after trying out elementary os. Made my transition from Windows to Debian, while it was with Strech couldn't ask for anything better to do it.
 ```
 - Abhijith Sheheer, 2018/10/18
+
+```
+Debian is one of the oldest and most famous Linux distributions of all time.But it has a strict policy on software packages. It only ships free software by default. It doesn’t even ship non-free firmware and drivers.But it has a good security system.
+```
+-Reon James,2018/10/27
+
+```
