@@ -31,4 +31,11 @@ It's relatively simplicity for use, practicality and utilitarianism. Its pretty 
 ```
 - Manjumaney C M, 2018-10-26
 
+####
+
+```
+it has many advantages like memory management, kernel pre-tuned ,excellent oracle support,well documented solution for issue on oracle support site.
+```
+- Reon James, 2018-10-27 
+
 
