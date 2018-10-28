@@ -46,8 +46,8 @@ Fedora Atomic
 Fedora is the 2nd most popular Linux distribution ever. It is built and used across the globe who work together as a community. Also can be used by anyone just like Ubuntu.
 ```
 - Aishwarya Rajan, 2018-10-20
-####
+#### Fedora is awesome
 ```
 Perhaps the main thing about Fedora is that it does not try to have its own shiny pieces of software, but tries as much to contribute at upstream. we’ll probably find many of the following features in many other Linux distributions as well,but many were done by the Fedora community.
 ```
--Reon James,2018-10-27
+-Reon James,2018-10-28
