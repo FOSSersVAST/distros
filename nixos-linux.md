@@ -25,4 +25,9 @@ NixOS 17.09
 I very much like the way NixOS takes the worry out of upgrading packages by placing each change in its own "generation" 
 ```
 - SHIKHA SAJAN , 2018-10-26
-
+#### flexible GNU/Linux-based distribution 
+```
+It has ease of deployment and reproducibility of the system.But with poor documentation, making it hard to create new packages, services or builds on the Hydra CI service.
+```
+-Reon James, 2018-10-28
+```
